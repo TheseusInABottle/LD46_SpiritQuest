@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 5e2d9961f69abef459604097c1d4e067
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Foes: {fileID: 11400000, guid: 941e900878003a94a8601479ad8f4b58, type: 2}
+  - playerCharacters: {fileID: 11400000, guid: 4021a3755aca4854797e8ba899842c85, type: 2}
+  - enemyLevel: {fileID: 11400000, guid: 9065cef7b82fc2c41ba4583a01428961, type: 2}
+  - playerSelection: {fileID: 11400000, guid: 86ce742c909b88047a8c24023e02d354, type: 2}
+  - enemyInfo: {fileID: 11400000, guid: 94b0066d7381a10439b44710176cd792, type: 2}
+  - enemyName: {instanceID: 0}
+  - enemyHealth: {instanceID: 0}
+  - enemySprite: {instanceID: 0}
+  - playerName: {instanceID: 0}
+  - playerHealth: {instanceID: 0}
+  - playerSprite: {instanceID: 0}
+  - playerInfo: {fileID: 11400000, guid: 716f68667b81e3548b4ab0d221287876, type: 2}
+  - attack: {instanceID: 0}
+  - defend: {instanceID: 0}
+  - boost: {instanceID: 0}
+  - meditate: {instanceID: 0}
+  - closeButton: {instanceID: 0}
+  - preFightText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

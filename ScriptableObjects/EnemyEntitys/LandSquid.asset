@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2d2a7e5201edf4d8c830662d265d3f, type: 3}
+  m_Name: LandSquid
+  m_EditorClassIdentifier: 
+  identityName: LAND <Color=#7ABFC7>SQUID</Color>
+  maxHP: 150
+  startAttack: 12
+  attack: 12
+  startDefence: 3
+  defence: 3
+  boost: 1
+  startBoost: 1
+  spriteGraphic: {fileID: 21300000, guid: 4a999ede8dc845f429be305737545dc4, type: 3}
+  prefightText: <Color=#7ABFC7>LAND SQUID:</Color> AS A WRITER I CAN ALREADY SEE
+    YOUR ENDING!
+  postFightText: <Color=#7ABFC7>LAND SQUID:</Color> YOU BEAT ME! TRULY AN UNEXPECTED
+    TWIST
+  dropped: 'QUILL AND INK '
+  statboosted: DEFENCE
+  favoredMoves: 03000000030000000000000000000000000000000000000000000000020000000200000001000000

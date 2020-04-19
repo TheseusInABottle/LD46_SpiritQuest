@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2d2a7e5201edf4d8c830662d265d3f, type: 3}
+  m_Name: JungelSpider
+  m_EditorClassIdentifier: 
+  identityName: <Color=#68A941>JUNGLE</Color> SPIDER
+  maxHP: 275
+  startAttack: 20
+  attack: 20
+  startDefence: 11
+  defence: 11
+  boost: 2
+  startBoost: 2
+  spriteGraphic: {fileID: 21300000, guid: 46627e5794bd99547a84cd7bf3dcecdc, type: 3}
+  prefightText: '<Color=#68A941>JUNGLE SPIDER:</Color> MY THREAD IS SO STRONG IT
+    WILL CUT YOU IN TWO. '
+  postFightText: '<Color=#68A941>JUNGLE SPIDER</Color> I WOULD HAVE NEVER GUESSED
+    IT WAS I WHO WAS CAUGHT IN YOUR WEB '
+  dropped: <Color=#B7B7B7>SILVER</Color> THREAD
+  statboosted: HP
+  favoredMoves: 00000000010000000200000003000000000000000100000002000000030000000000000001000000

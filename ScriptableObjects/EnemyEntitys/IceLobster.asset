@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2d2a7e5201edf4d8c830662d265d3f, type: 3}
+  m_Name: IceLobster
+  m_EditorClassIdentifier: 
+  identityName: <Color=#7ABFC7>ICE</Color> LOBSTER
+  maxHP: 275
+  startAttack: 20
+  attack: 20
+  startDefence: 11
+  defence: 11
+  boost: 2
+  startBoost: 2
+  spriteGraphic: {fileID: 21300000, guid: 2d335267d2aad7c4980822a94534202a, type: 3}
+  prefightText: <Color=#7ABFC7>ICE LOBSTER:</Color> MY MOM SAYS I WOULD BE COOLER
+    IF I CAME OUT OF MY SHELL A LITTLE.
+  postFightText: '<Color=#7ABFC7>ICE LOBSTER:</Color> I KNEW I SHOULD HAVE STAYED
+    HOME AND DONE THE LUDUM DARE! '
+  dropped: COOL <Color=#7ABFC7 >SHELL</Color>
+  statboosted: ATTACK
+  favoredMoves: 02000000020000000200000000000000000000000000000000000000010000000100000003000000

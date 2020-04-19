@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2d2a7e5201edf4d8c830662d265d3f, type: 3}
+  m_Name: ForestGuardian
+  m_EditorClassIdentifier: 
+  identityName: GUARDIAN OF THE <Color=#ACEA88>FOREST</Color>
+  maxHP: 100
+  startAttack: 10
+  attack: 10
+  startDefence: 5
+  defence: 5
+  boost: 1
+  startBoost: 1
+  spriteGraphic: {fileID: 21300000, guid: 3bbab1341ac6de04d87940a894199db5, type: 3}
+  prefightText: <Color=#ACEA88>GUARDIAN OF THE FOREST:</Color> I WILL SOONER CHOP
+    YOU DOWN THAN LET YOU <Color=#ACEA88>LEAF</Color>
+  postFightText: <Color=#ACEA88>GUARDIAN OF THE FOREST:</Color> TELL MY FAMILY I
+    WILL BE BACK NEXT SPRING
+  dropped: <Color=#FFE200>GOLDEN</Color> LEAF
+  statboosted: ATTACK
+  favoredMoves: 00000000010000000200000003000000000000000100000002000000030000000000000000000000
